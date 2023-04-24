@@ -17,3 +17,6 @@ En el siguiente proyecto se desarrolla un aplicación escrita con codigo #Java l
 - `out`: Carpeta del build o producción
 - `bin`: Carpeta de binario java 
 
+## Para ejecutar: 
+
+Ir a "src/topauthors/views/AuthorsView" y ejecutar (por consola)
