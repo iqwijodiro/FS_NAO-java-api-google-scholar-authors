@@ -19,4 +19,7 @@ En el siguiente proyecto se desarrolla un aplicación escrita con codigo #Java l
 
 ## Para ejecutar: 
 
-Ir a "src/topauthors/views/AuthorsView" y ejecutar (por consola)
+Ir a "src/topauthors/Main" y ejecutar (por consola)
+
+
+Please check the DB file, if its ok with you test it in your local dev enviroment.
