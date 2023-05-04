@@ -55,6 +55,7 @@ public class Main {
             String sql = "INSERT INTO autor (name, affiliations, email, url) VALUES ('"
                     +name+"', '" +affiliations+ "', '" +email+ "', '" +profileUrl + "')";
             stmt.executeUpdate(sql);
+            System.out.println("Author saved in DB");
         } catch (SQLException e) {
             e.printStackTrace();
         }
